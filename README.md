@@ -20,7 +20,6 @@ ChaodeVidro/
 │-- aula03.html  # Arquivo principal do jogo
 │-- style.css   # Estilos do jogo
 │-- script.js   # Lógica do jogo
-│-- assets/     # Imagens e recursos
 │-- README.md   # Documentação do projeto
 ```
 
