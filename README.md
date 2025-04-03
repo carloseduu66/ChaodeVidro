@@ -17,7 +17,7 @@ Este é um jogo desenvolvido em **HTML, CSS e JavaScript** que implementa o famo
 ## 📂 Estrutura do Projeto
 ```
 ChaodeVidro/
-│-- index.html  # Arquivo principal do jogo
+│-- aula03.html  # Arquivo principal do jogo
 │-- style.css   # Estilos do jogo
 │-- script.js   # Lógica do jogo
 │-- assets/     # Imagens e recursos
@@ -32,7 +32,7 @@ ChaodeVidro/
   ```sh
   git clone https://github.com/carloseduu66/ChaodeVidro.git
   ```
-- Abrir o arquivo `index.html` no navegador.
+- Abrir o arquivo `aula03.html` no navegador.
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo.
